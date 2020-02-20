@@ -280,11 +280,11 @@
 .txt-act-time {
   font-size: 8px;
   margin-left: 8%;
-  margin-top: 0%;
+  margin-top: -6%;
 }
 .icon {
   width: 6%;
-  margin-top: -7%;
+  margin-top: -2%;
 }
 .image-activity {
   width: 30%;
@@ -376,12 +376,17 @@
   .bottom-card {
     margin-top: -28.7%;
   }
+  .txt-item-card {
+    /* width: 93%; */
+    padding-top: 75%;
+  }
 }
 
 @media only screen and (max-width: 1280px) {
   .bottom-card {
     margin-top: -32%;
   }
+  .
 }
 
 @media only screen and (max-width: 1024px) {
