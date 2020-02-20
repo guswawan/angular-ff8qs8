@@ -65,7 +65,7 @@
 }
 .txt-account {
   color: #f5e3cf;
-  margin-top: -1%;
+  margin-top: -18%;
   margin-left: 5px;
 }
 .txt-account h4 {
@@ -146,7 +146,7 @@
   /* background-color: chartreuse; */
   font-size: 20px;
   font-weight: 500;
-  padding-top: 52.5%;
+  padding-top: 45%;
   padding-left: 5%;
 }
 .txt-top-card {
@@ -195,11 +195,11 @@
   font-weight: 500;
   margin: auto;
   width: 90%;
-  padding-top: 45%;
+  padding-top: 40%;
   justify-content: space-between;
 }
 .txt-item-card-doc-name {
-  margin-bottom: -1%;
+  margin-bottom: -5%;
   font-size: 12px;
 }
 .item-card-upload {
@@ -271,16 +271,16 @@
   font-size: 9px;
 }
 .txt-act-name {
-  margin-top: 0px;
+  margin-top: 2%;
 }
 .txt-act-desc {
   font-size: 8px;
-  margin-top: -10%;
+  margin-top: 0%;
 }
 .txt-act-time {
   font-size: 8px;
   margin-left: 8%;
-  margin-top: -9%;
+  margin-top: 0%;
 }
 .icon {
   width: 6%;
@@ -319,13 +319,13 @@
   height: 85px;
 }
 .card-channel p {
-  padding-top: 50%;
+  padding-top: 45%;
   padding-left: 5%;
 }
 
 .line-footer {
   width: 62%;
-  margin-top: 5%;
+  margin-top: 6%;
 }
 .social-media {
   margin-left: 18.8%;
