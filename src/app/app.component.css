@@ -182,7 +182,7 @@
   font-weight: 500;
   margin: auto;
   width: 90%;
-  padding-top: 55%;
+  padding-top: 50%;
   z-index: 9;
   justify-content: space-between;
 }
@@ -450,7 +450,7 @@
   .txt-item-card {
     font-size: 9px;
     width: 93%;
-    padding-top: 75%;
+    padding-top: 78%;
   }
   .bottom-card {
     margin-top: -42.8%;
